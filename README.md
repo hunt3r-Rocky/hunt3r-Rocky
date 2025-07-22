@@ -23,7 +23,6 @@ I'm <strong>Hunter Rocky</strong> — a self-taught hacker, drone storyteller, a
 ## 💻 Tools & Skills
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/websec?style=for-the-badge&logo=webapp&color=000000"/>
   <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burp-suite&color=000000"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000"/>
   <img src="https://img.shields.io/badge/Recon-Tools-blueviolet?style=for-the-badge&color=000000"/>
