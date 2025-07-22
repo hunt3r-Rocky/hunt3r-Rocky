@@ -47,17 +47,6 @@ I'm <strong>Hunter Rocky</strong> — a self-taught hacker, drone storyteller, a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000"/>
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<img align="right" width="42%" src="https://i.imgur.com/1ToWEWw.png"/>
-
-[![Hunter Rocky’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hunt3r-rocky=radical&show_icons=true&hide_border=true)](https://github.com/gotr00t0day/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=hunt3r-rocky&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunt3r-rocky&layout=compact&theme=radical&hide_border=true)](https://github.com/gotr00t0day/github-readme-stats)
-
----
 
 ## ⚡ Philosophy
 
