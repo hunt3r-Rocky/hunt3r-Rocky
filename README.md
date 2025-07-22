@@ -1,4 +1,4 @@
-Hi, I’m **Hunter Rocky** — a self-taught hacker and digital nomad.
+Hi, I’m **Rocky** — a self-taught hacker and digital nomad.
 
 - 🐞 Bug bounty hunter  
 - 🔍 Obsessed with recon & web app security    
