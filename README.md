@@ -9,13 +9,9 @@ I'm <strong>Hunter Rocky</strong> — a self-taught hacker, drone storyteller, a
 
 ## 📡 Present Status
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59"/>
-
 - 🧪 Practicing Web Security & Bug Bounty  
-- 🚁 Capturing cinematic drone visuals  
 - ✍️ Writing checklists & building my toolkit  
-- 🧠 Deep diving into recon, XSS, IDOR & auth bugs  
-- 🔜 Learning mobile hacking & hardware fuzzing  
+- 🧠 Deep diving into recon, XSS, IDOR & auth bugs   
 - 🚀 Mission: Hack, travel, create & share knowledge
 
 ---
